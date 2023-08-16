@@ -22,7 +22,7 @@ brotli==1.0.9
     # via -r requirements.in
 cached-property==1.5.2
     # via pygit2
-certifi==2020.6.20
+certifi==2023.7.22
     # via requests
 cffi==1.14.3
     # via pygit2
@@ -128,7 +128,7 @@ requests==2.24.0
     #   fontbakery
     #   gftools
     #   pygithub
-ruamel.yaml==0.16.12
+ruamel-yaml==0.16.12
     # via strictyaml
 six==1.15.0
     # via
